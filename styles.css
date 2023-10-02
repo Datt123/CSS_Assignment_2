@@ -1,0 +1,192 @@
+header {
+    display: flex;
+    text-align: center;
+    padding: 20px;
+    background-color: #333; 
+    color: #fff; 
+    font-family: 'Georgia', serif;    
+}
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    line-height: 1.5;
+    font-size: 18px;
+    font-family: 'Arial', sans-serif; 
+    background-color: #e7d5fb; 
+    color: #03280f; 
+}
+
+.content {
+    font-size: 40px;
+    text-align: left; 
+    margin-left: -40px;
+}
+
+.content > p {
+    font-family: "great vibes";    
+}
+
+.content > h1 {
+    font-size: 90px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    color: pink; 
+    text-align: left; 
+    margin-left: -80px; 
+    text-decoration: underline;
+}
+
+.image{
+    width: 400px;
+    height: auto;
+    margin-right: 20%;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.lyrics{
+    text-align: center;
+}
+
+.title{
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: #456707;
+}
+
+
+.para01, .para02, .para05{
+    font-family: "Roboto Mono";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.para03, .para06, .para10{
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Young Serif', serif;
+    font-size: 25px;
+
+}
+
+.para04, .para07, .para09{
+    font-family: "Caveat";
+    font-size: 39px;
+    margin-bottom: 10px;
+    font-weight: 550;
+}
+
+.para08{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    padding:20px;
+    background-color: #333; 
+    color: #8d8282; 
+    font-family: "great vibes";
+    font-size: 30px;
+}
+
+.para01, .para02, .para03 ,.para04, .para05, .para06, .para07, .para08, .para09, .para10{
+    margin-bottom: 40px;
+}
+
+/* emotions*/
+
+.p1l1, .p1l4{
+    color: rgb(129, 54, 97);
+}
+.p1l2{
+    text-decoration: underline;
+    color: #0a0237;
+}
+.p2l1{
+    color: red;
+}
+.p2l2w1{
+    text-decoration: underline;
+}
+.p2l2{
+    color: rgb(15, 61, 186);
+}
+.p3l1w1{
+    color: rgb(226, 35, 201);
+    font-weight: bold;
+}
+.p3l1w2{
+    color: red;
+    text-decoration-line: underline;
+}
+.p3l2w1{
+    color: rgb(15, 61, 186);
+    
+}
+.p3l3{
+    color: rgb(226, 35, 201);
+}
+.p3l4{
+    color: #824e5c;
+}
+.p3l5w1{
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+.p3l5w2{
+    color: red;
+    font-weight: bold;
+}
+.p4l1w1{
+    color: red;
+}
+.p4l1w2{
+    color: rebeccapurple;
+}
+.p4l2{
+    color: #824e5c;
+    font-weight: bold;
+}
+.p4l3{
+    text-decoration: underline;
+}
+.p4l5w1{
+    font-weight: bold;  
+}
+.p4l5w2{
+    color: red;
+}
+.p4l6, .p8l1 , .p8l2{
+    font-weight: bold;
+    color: #456707;
+}
+.p5l1{
+    color: blue;
+}
+.p5l3{
+    color: red;
+    text-decoration: underline;
+}
+.p5l4w1{
+    color: blue;
+
+}
+.p5l4w2, .p5l5{
+    color: rgb(240, 48, 80);
+}
